@@ -1,5 +1,7 @@
 import { Button } from "./Button";
 
+ 
+
 interface SideBarProps {
   genres: Array<{
     id: number;
